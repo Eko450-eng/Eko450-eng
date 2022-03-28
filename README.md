@@ -1,4 +1,4 @@
-### Hi there 👋, Ekrem Atmaca
+### Hi there 👋, my name is Ekrem Atmaca
 #### I am a Web-Developer
 ![I am a Web-Developer](https://github.com/Eko450-eng/Eko450-eng/blob/main/GitHUbHeader.png)
 
