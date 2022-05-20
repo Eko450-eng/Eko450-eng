@@ -6,4 +6,4 @@ Hey, my name is Ekrem Atmaca also known as Eko I am a web developer and I love c
 
 [![Eko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eko450-eng)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: REACT / JS / HTML / CSS / SCSS
+Skills: REACT / JS / HTML / CSS / SCSS / Figma / Firebase / MongoDB 
